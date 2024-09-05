@@ -9,7 +9,9 @@ Vision-and-Language Navigation (VLN) has gained increasing attention over recent
 🔔 We will update this page frequently~ :tada::tada::tada:
 
 ## World Model
-
+|  Title  |   Venue  |   Date   |   Code   | 
+|:--------|:--------:|:--------:|:--------:|
+<br> [**EnvEdit: Environment Editing for Vision-and-Language Navigation**](https://arxiv.org/abs/2203.15685) <br> | CVPR | 2022| [Github](https://github.com/jialuli-luka/VLN-SIG) |
 
 ## Human Model
 
