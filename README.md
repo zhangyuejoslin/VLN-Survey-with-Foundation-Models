@@ -15,7 +15,7 @@ If you find our work useful in your research, please consider citing:
       year={2024}
     }
 
-🔔 We will update this page frequently~ :tada::tada::tada:
+🔔 We will update this page frequently:
 
 ### World Model: Learning and Representing the Visual Environment
 A world model helps the VLN agent to understand their surrounding environments, predict how their actions would change the world state, and align their perception and actions with language instructions.
