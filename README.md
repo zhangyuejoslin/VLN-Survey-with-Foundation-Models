@@ -17,7 +17,16 @@ If you find our work useful in your research, please consider citing:
 
 🔔 We will update this page frequently. If you believe additional work should be included, please do not hesitate to email us (zhan1624@msu.edu) or raise an issue. Your suggestions and comments are invaluable to ensuring the completeness of our resources.
 
-### World Model: Learning and Representing the Visual Environment
+## Content
+---
+- [Relevant Surveys](#relevant-surveys)
+- [World Model](#word-modal)
+
+
+---
+## Relevant Surveys
+---
+## World Model
 A world model helps the VLN agent to understand their surrounding environments, predict how their actions would change the world state, and align their perception and actions with language instructions.
 |  Title  |   Venue  |   Date   |   Code   | 
 |:--------|:--------:|:--------:|:--------:|
