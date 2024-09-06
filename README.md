@@ -39,9 +39,10 @@ The human model comprehends human-provided natural language instructions per sit
 [**Improving Vision-and-Language Navigation with Image-Text Pairs from the Web**](https://arxiv.org/pdf/2002.10638)| ECCV | 2020| [Github](https://github.com/arjunmajum/vln-bert) |
 
 ### VLN Agent: Learning an Embodied Agent for Reasoning and Planning
-#### Grounding and Planning
+
 |  Title  |   Venue  |   Date   |   Code   | 
 |:--------|:--------:|:--------:|:--------:|
-#### Pre-training
+[**Actional Atomic-Concept Learning for Demystifying Vision-Language Navigation**](https://arxiv.org/pdf/2302.06072)| AAAI | 2023| - |
 
-#### Planning
+
+
