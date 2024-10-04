@@ -25,6 +25,9 @@ If you find our work useful in your research, please consider citing:
 
 ---
 ## Relevant Surveys
+|  Title  |   Venue  |   Date   |   Code   | 
+|:--------|:--------:|:--------:|:--------:|
+[**Vision-and-Language Navigation: A Survey of Tasks, Methods, and Future Directions**](https://arxiv.org/abs/2203.12667)| ACL | 2022| [Github](https://github.com/eric-ai-lab/awesome-vision-language-navigation) |
 ---
 ## World Model
 A world model helps the VLN agent to understand their surrounding environments, predict how their actions would change the world state, and align their perception and actions with language instructions.
