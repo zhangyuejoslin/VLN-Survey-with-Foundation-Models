@@ -39,6 +39,7 @@ A world model helps the VLN agent to understand their surrounding environments, 
 [**Frequency-enhanced Data Augmentation for Vision-and-Language Navigation**](https://openreview.net/pdf?id=eKFrXWb0sT)| NeurIPS | 2023| [Github](https://github.com/hekj/FDA?tab=readme-ov-file) |
 [**Simple and Effective Synthesis of Indoor 3D Scenes**](https://arxiv.org/pdf/2204.02960)| AAAI | 2023| [Github](https://github.com/google-research/se3ds) |
 [**Learning vision-and-language navigation from youtube videos**](https://arxiv.org/abs/2307.11984)| ICCV | 2023| [Github](https://github.com/JeremyLinky/YouTube-VLN) |
+[**Scaling Data Generation in Vision-and-Language Navigation**](https://arxiv.org/abs/2307.15644)| ICCV | 2023| [Github](https://github.com/wz0919/ScaleVLN/tree/main?tab=readme-ov-file) |
 
 
 ### Human Model: Interpreting and Communication with Humans
