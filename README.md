@@ -72,6 +72,7 @@ The human model comprehends human-provided natural language instructions per sit
 
 |  Title  |   Venue  |   Date   |   Code   | 
 |:--------|:--------:|:--------:|:--------:|
+[**NavGPT-2: Unleashing Navigational Reasoning Capability for Large Vision-Language Models**](https://www.arxiv.org/abs/2407.12366) | ECCV | 2024 | [Github](https://github.com/GengzeZhou/NavGPT-2) |
 [**Actional Atomic-Concept Learning for Demystifying Vision-Language Navigation**](https://arxiv.org/pdf/2302.06072)| AAAI | 2023| - |
 [**Grounded Entity-Landmark Adaptive Pre-training for Vision-and-Language Navigation**](https://arxiv.org/abs/2308.12587)| ICCV | 2023| [Github](https://arxiv.org/pdf/2305.14268)  |
 [**Adaptive Zone-aware Hierarchical Planner for Vision-Language Navigation**](https://openaccess.thecvf.com/content/CVPR2023/papers/Gao_Adaptive_Zone-Aware_Hierarchical_Planner_for_Vision-Language_Navigation_CVPR_2023_paper.pdf)| ICCV | 2023| [Github](https://github.com/chengaopro/AZHP)  |
