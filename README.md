@@ -97,8 +97,8 @@ The human model comprehends human-provided natural language instructions per sit
 ##### Fine-tuning
 |  Title  |   Venue  |   Date   |   Code   | 
 |:--------|:--------:|:--------:|:--------:|
-[**NavCoT: Boosting LLM-Based Vision-and-Language Navigation via Learning Disentangled Reasoning**](https://arxiv.org/abs/2403.07376)   | NavCoT: Boosting LLM-Based Vision-and-Language Navigation via Learning Disentangled Reasoning | 2024 | [Github](https://github.com/expectorlin/NavCoT)
 [**LangNav: Language as a Perceptual Representation for Navigation**](https://aclanthology.org/2024.findings-naacl.60.pdf) | NACCL Findings | 2024 | [Github](https://github.com/pbw-Berwin/LangNav)
+[**NavCoT: Boosting LLM-Based Vision-and-Language Navigation via Learning Disentangled Reasoning**](https://arxiv.org/abs/2403.07376)   | CVPR | 2024 | [Github](https://github.com/expectorlin/NavCoT)
 [**Towards Learning a Generalist Model for Embodied Navigation**](https://arxiv.org/abs/2312.02010) | CVPR | 2024 | [Github](https://github.com/LaVi-Lab/NaviLLM)
 
 ##### Vision-and-Language Model (VLM)
