@@ -34,9 +34,12 @@ A world model helps the VLN agent to understand their surrounding environments, 
 [**Pathdreamer: A World Model for Indoor Navigation**](https://arxiv.org/abs/2105.08756)| ICCV | 2021| - |
 [**Airbert: In-domain Pretraining for Vision-and-Language Navigation**](https://arxiv.org/abs/2108.09105)| ICCV | 2021| [Github](https://airbert-vln.github.io/) |
 [**Vision-Language Navigation with Random Environmental Mixup**](https://arxiv.org/abs/2106.07876)| ICCV | 2021| [Github](https://github.com/LCFractal/VLNREM) |
-[**EnvEdit: Environment Editing for Vision-and-Language Navigation**](https://arxiv.org/abs/2203.15685)| CVPR | 2022| [Github](https://github.com/jialuli-luka/VLN-SIG) |
+[**EnvEdit: Environment Editing for Vision-and-Language Navigation**](https://arxiv.org/abs/2203.15685)| CVPR | 2022| [Github](https://github.com/jialuli-luka/VLN-SIG)|
 [**Vision Language Navigation with Knowledge-driven Environmental Dreamer**](https://www.ijcai.org/proceedings/2023/0204.pdf)| IJCAI | 2023| - |
 [**Frequency-enhanced Data Augmentation for Vision-and-Language Navigation**](https://openreview.net/pdf?id=eKFrXWb0sT)| NeurIPS | 2023| [Github](https://github.com/hekj/FDA?tab=readme-ov-file) |
+[**Simple and Effective Synthesis of Indoor 3D Scenes**](https://arxiv.org/pdf/2204.02960)| AAAI | 2023| [Github](https://github.com/google-research/se3ds) |
+[**Learning vision-and-language navigation from youtube videos**](https://arxiv.org/abs/2307.11984)| ICCV | 2023| [Github](https://github.com/JeremyLinky/YouTube-VLN) |
+
 
 ### Human Model: Interpreting and Communication with Humans
 The human model comprehends human-provided natural language instructions per situation to complete navigation tasks. 
