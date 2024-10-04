@@ -31,8 +31,8 @@ A world model helps the VLN agent to understand their surrounding environments, 
 |  Title  |   Venue  |   Date   |   Code   | 
 |:--------|:--------:|:--------:|:--------:|
 [**History Aware Multimodal Transformer for Vision-and-Language Navigation**](https://arxiv.org/abs/2110.13309)| NeurIPS | 2021| [Github](https://cshizhe.github.io/projects/vln_hamt.html) |
-[**Pathdreamer: A World Model for Indoor Navigation**](https://arxiv.org/abs/2108.09105)| ICCV | 2021| - |
-[**Airbert: In-domain Pretraining for Vision-and-Language Navigation**](https://arxiv.org/abs/2105.08756)| ICCV | 2021| [Github](https://airbert-vln.github.io/) |
+[**Pathdreamer: A World Model for Indoor Navigation**](https://arxiv.org/abs/2105.08756)| ICCV | 2021| - |
+[**Airbert: In-domain Pretraining for Vision-and-Language Navigation**](https://arxiv.org/abs/2108.09105)| ICCV | 2021| [Github](https://airbert-vln.github.io/) |
 [**Vision-Language Navigation with Random Environmental Mixup**](https://arxiv.org/abs/2106.07876)| ICCV | 2021| [Github](https://github.com/LCFractal/VLNREM) |
 [**EnvEdit: Environment Editing for Vision-and-Language Navigation**](https://arxiv.org/abs/2203.15685)| CVPR | 2022| [Github](https://github.com/jialuli-luka/VLN-SIG) |
 [**Vision Language Navigation with Knowledge-driven Environmental Dreamer**](https://www.ijcai.org/proceedings/2023/0204.pdf)| IJCAI | 2023| - |
