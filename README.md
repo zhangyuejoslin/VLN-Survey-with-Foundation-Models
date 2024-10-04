@@ -34,20 +34,20 @@ If you find our work useful in your research, please consider citing:
 A world model helps the VLN agent to understand their surrounding environments, predict how their actions would change the world state, and align their perception and actions with language instructions.
 |  Title  |   Venue  |   Date   |   Code   | 
 |:--------|:--------:|:--------:|:--------:|
+[**VLN-Video: Utilizing Driving Videos for Outdoor Vision-and-Language Navigation**](https://arxiv.org/abs/2402.03561)| AAAI | 2024| - |
+[**Vision Language Navigation with Knowledge-driven Environmental Dreamer**](https://www.ijcai.org/proceedings/2023/0204.pdf)| IJCAI | 2023| - |
+[**Frequency-enhanced Data Augmentation for Vision-and-Language Navigation**](https://openreview.net/pdf?id=eKFrXWb0sT)| NeurIPS | 2023| [Github](https://github.com/hekj/FDA?tab=readme-ov-file) |
+[**Frequency-Enhanced Data Augmentation for Vision-and-Language Navigation**](https://proceedings.neurips.cc/paper_files/paper/2023/file/0d9e08f247ca7fbbfd5e50b7ff9cf357-Paper-Conference.pdf)| NeurIPS | 2023| [Github](https://github.com/hekj/FDA) |
+[**Simple and Effective Synthesis of Indoor 3D Scenes**](https://arxiv.org/pdf/2204.02960)| AAAI | 2023| [Github](https://github.com/google-research/se3ds) |
+[**Learning vision-and-language navigation from youtube videos**](https://arxiv.org/abs/2307.11984)| ICCV | 2023| [Github](https://github.com/JeremyLinky/YouTube-VLN) |
+[**Scaling Data Generation in Vision-and-Language Navigation**](https://arxiv.org/abs/2307.15644)| ICCV | 2023| [Github](https://github.com/wz0919/ScaleVLN/tree/main?tab=readme-ov-file) |
+[**A New Path: Scaling Vision-and-Language Navigation with Synthetic Instructions and Imitation Learning**](https://arxiv.org/abs/2210.03112)| CVPR | 2023| [Github](https://github.com/google-research-datasets/RxR/tree/main/marky-mT5)  |
+[**Panogen: Text-conditioned panoramic environment generation for vision-and-language navigation**](https://arxiv.org/abs/2305.19195)| NeurIPS | 2023| [Github](https://github.com/jialuli-luka/PanoGen) |
+[**EnvEdit: Environment Editing for Vision-and-Language Navigation**](https://arxiv.org/abs/2203.15685)| CVPR | 2022| [Github](https://github.com/jialuli-luka/VLN-SIG)|
 [**History Aware Multimodal Transformer for Vision-and-Language Navigation**](https://arxiv.org/abs/2110.13309)| NeurIPS | 2021| [Github](https://cshizhe.github.io/projects/vln_hamt.html) |
 [**Pathdreamer: A World Model for Indoor Navigation**](https://arxiv.org/abs/2105.08756)| ICCV | 2021| - |
 [**Airbert: In-domain Pretraining for Vision-and-Language Navigation**](https://arxiv.org/abs/2108.09105)| ICCV | 2021| [Github](https://airbert-vln.github.io/) |
 [**Vision-Language Navigation with Random Environmental Mixup**](https://arxiv.org/abs/2106.07876)| ICCV | 2021| [Github](https://github.com/LCFractal/VLNREM) |
-[**EnvEdit: Environment Editing for Vision-and-Language Navigation**](https://arxiv.org/abs/2203.15685)| CVPR | 2022| [Github](https://github.com/jialuli-luka/VLN-SIG)|
-[**Vision Language Navigation with Knowledge-driven Environmental Dreamer**](https://www.ijcai.org/proceedings/2023/0204.pdf)| IJCAI | 2023| - |
-[**Frequency-enhanced Data Augmentation for Vision-and-Language Navigation**](https://openreview.net/pdf?id=eKFrXWb0sT)| NeurIPS | 2023| [Github](https://github.com/hekj/FDA?tab=readme-ov-file) |
-[**Simple and Effective Synthesis of Indoor 3D Scenes**](https://arxiv.org/pdf/2204.02960)| AAAI | 2023| [Github](https://github.com/google-research/se3ds) |
-[**Learning vision-and-language navigation from youtube videos**](https://arxiv.org/abs/2307.11984)| ICCV | 2023| [Github](https://github.com/JeremyLinky/YouTube-VLN) |
-[**Scaling Data Generation in Vision-and-Language Navigation**](https://arxiv.org/abs/2307.15644)| ICCV | 2023| [Github](https://github.com/wz0919/ScaleVLN/tree/main?tab=readme-ov-file) |
-[**VLN-Video: Utilizing Driving Videos for Outdoor Vision-and-Language Navigation**](https://arxiv.org/abs/2402.03561)| AAAI | 2024| - |
-[**A New Path: Scaling Vision-and-Language Navigation with Synthetic Instructions and Imitation Learning**](https://arxiv.org/abs/2210.03112)| CVPR | 2023| [Github](https://github.com/google-research-datasets/RxR/tree/main/marky-mT5)  |
-[**Panogen: Text-conditioned panoramic environment generation for vision-and-language navigation**](https://arxiv.org/abs/2305.19195)| NeurIPS | 2023| [Github](https://github.com/jialuli-luka/PanoGen) |
-
 
 ### Human Model: Interpreting and Communication with Humans
 The human model comprehends human-provided natural language instructions per situation to complete navigation tasks. 
