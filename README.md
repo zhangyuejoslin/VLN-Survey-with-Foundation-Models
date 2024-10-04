@@ -46,6 +46,7 @@ A world model helps the VLN agent to understand their surrounding environments, 
 [**Scaling Data Generation in Vision-and-Language Navigation**](https://arxiv.org/abs/2307.15644)| ICCV | 2023| [Github](https://github.com/wz0919/ScaleVLN/tree/main?tab=readme-ov-file) |
 [**VLN-Video: Utilizing Driving Videos for Outdoor Vision-and-Language Navigation**](https://arxiv.org/abs/2402.03561)| AAAI | 2024| - |
 [**A New Path: Scaling Vision-and-Language Navigation with Synthetic Instructions and Imitation Learning**](https://arxiv.org/abs/2210.03112)| CVPR | 2023| [Github](https://github.com/google-research-datasets/RxR/tree/main/marky-mT5)  |
+[**Panogen: Text-conditioned panoramic environment generation for vision-and-language navigation**](https://arxiv.org/abs/2305.19195)| NeurIPS | 2023| [Github](https://github.com/jialuli-luka/PanoGen) |
 
 
 ### Human Model: Interpreting and Communication with Humans
