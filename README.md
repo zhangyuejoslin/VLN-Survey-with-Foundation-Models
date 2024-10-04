@@ -22,6 +22,7 @@ If you find our work useful in your research, please consider citing:
 - [Relevant Surveys](#relevant-surveys)
 - [World Model](#word-modal)
 - [Human Model](#human-modal)
+- [VLN Agent](#vln-agent-learning-an-embodied-agent-for-reasoning-and-planning)
 
 
 ---
@@ -50,7 +51,7 @@ A world model helps the VLN agent to understand their surrounding environments, 
 [**Airbert: In-domain Pretraining for Vision-and-Language Navigation**](https://arxiv.org/abs/2108.09105)| ICCV | 2021| [Github](https://airbert-vln.github.io/) |
 [**Vision-Language Navigation with Random Environmental Mixup**](https://arxiv.org/abs/2106.07876)| ICCV | 2021| [Github](https://github.com/LCFractal/VLNREM) |
 
-### Human Model: Interpreting and Communication with Humans
+## Human Model: Interpreting and Communication with Humans
 The human model comprehends human-provided natural language instructions per situation to complete navigation tasks. 
 
 |  Title  |   Venue  |   Date   |   Code   | 
@@ -68,7 +69,7 @@ The human model comprehends human-provided natural language instructions per sit
 [**Explicit Object Relation Alignment for Vision and Language Navigation**](https://aclanthology.org/2022.acl-srw.24.pdf)| ACL-SRW | 2022| [Github](https://github.com/HLR/Object-Grounding-for-VLN) |
 [**Towards Navigation by Reasoning over Spatial Configurations**](https://arxiv.org/abs/2105.06839)| SpLU | 2021| [Github](https://github.com/zhangyuejoslin/SpC-NAV) |
 
-### VLN Agent: Learning an Embodied Agent for Reasoning and Planning
+## VLN Agent: Learning an Embodied Agent for Reasoning and Planning
 
 |  Title  |   Venue  |   Date   |   Code   | 
 |:--------|:--------:|:--------:|:--------:|
@@ -83,10 +84,10 @@ The human model comprehends human-provided natural language instructions per sit
 [**LOViS: Learning Orientation and Visual Signals for Vision and Language Navigation**](https://aclanthology.org/2022.coling-1.505.pdf)| COLING | 2022| [Github](https://github.com/HLR/LOViS) |
 [**Scene-Intuitive Agent for Remote Embodied Visual Grounding**](https://arxiv.org/pdf/2103.12944)| CVPR | 2021| - |
 
-#### LLM-based VLN Agent
+### LLM-based VLN Agent
 
 
-##### Zero-shot
+#### Zero-shot
 |  Title  |   Venue  |   Date   |   Code   | 
 |:--------|:--------:|:--------:|:--------:|
 [**Discuss Before Moving: Visual Language Navigation via Multi-expert Discussions**](https://ieeexplore.ieee.org/abstract/document/10611565) | ICRA | 2024 | [Github](https://github.com/LYX0501/DiscussNav) |
@@ -94,14 +95,14 @@ The human model comprehends human-provided natural language instructions per sit
 [**NavGPT: Explicit Reasoning in Vision-and-Language Navigation with Large Language Models**](https://arxiv.org/abs/2305.16986) | CVPR | 2023 | [Github](https://github.com/GengzeZhou/NavGPT) |
 
 
-##### Fine-tuning
+#### Fine-tuning
 |  Title  |   Venue  |   Date   |   Code   | 
 |:--------|:--------:|:--------:|:--------:|
 [**LangNav: Language as a Perceptual Representation for Navigation**](https://aclanthology.org/2024.findings-naacl.60.pdf) | NACCL Findings | 2024 | [Github](https://github.com/pbw-Berwin/LangNav)
 [**NavCoT: Boosting LLM-Based Vision-and-Language Navigation via Learning Disentangled Reasoning**](https://arxiv.org/abs/2403.07376)   | CVPR | 2024 | [Github](https://github.com/expectorlin/NavCoT)
 [**Towards Learning a Generalist Model for Embodied Navigation**](https://arxiv.org/abs/2312.02010) | CVPR | 2024 | [Github](https://github.com/LaVi-Lab/NaviLLM)
 
-##### Vision-and-Language Model (VLM)
+#### Vision-and-Language Model (VLM)
 
 |  Title  |   Venue  |   Date   |   Code   | 
 |:--------|:--------:|:--------:|:--------:|
