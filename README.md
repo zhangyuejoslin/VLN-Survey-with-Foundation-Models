@@ -63,7 +63,7 @@ The human model comprehends human-provided natural language instructions per sit
 [**Less is More: Generating Grounded Navigation Instructions from Landmarks**](https://arxiv.org/pdf/2111.12872)| CVPR | 2022| [Dataset](https://github.com/google-research-datasets/RxR/tree/main/marky-mT5) |
 [**Visual-Language Navigation Pretraining via Prompt-based Environmental Self-exploration**](https://arxiv.org/pdf/2203.04006)| ACL | 2022| [Github](https://github.com/liangcici/Probes-VLN) |
 [**Towards Learning a Generic Agent for Vision-and-Language Navigation via Pre-training**](https://arxiv.org/pdf/2004.14973)| CVPR | 2020| [Github](https://github.com/weituo12321/PREVALENT) |
-[**Improving Vision-and-Language Navigation with Image-Text Pairs from the Web**](https://arxiv.org/pdf/2002.10638)| ECCV | 2020| [Github](https://github.com/arjunmajum/vln-bert) |
+[**IDo As I Can, Not As I Say:Grounding Language in Robotic Affordances**](https://say-can.github.io/assets/palm_saycan.pdf)| - | -| [Github](https://say-can.github.io/) |
 
 ### VLN Agent: Learning an Embodied Agent for Reasoning and Planning
 
