@@ -21,6 +21,7 @@ If you find our work useful in your research, please consider citing:
 ---
 - [Relevant Surveys](#relevant-surveys)
 - [World Model](#word-modal)
+- [Human Model](#human-modal)
 
 
 ---
