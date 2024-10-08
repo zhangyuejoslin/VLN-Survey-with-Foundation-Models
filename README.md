@@ -69,8 +69,6 @@ The human model comprehends human-provided natural language instructions per sit
 [**Visual-Language Navigation Pretraining via Prompt-based Environmental Self-exploration**](https://arxiv.org/pdf/2203.04006)| ACL | 2022| [Github](https://github.com/liangcici/Probes-VLN) |
 [**Less is More: Generating Grounded Navigation Instructions from Landmarks**](https://arxiv.org/pdf/2004.14973)| CVPR | 2022| [Github](https://github.com/google-research-datasets/RxR/tree/main/marky-mT5) |
 [**Do As I Can, Not As I Say:Grounding Language in Robotic Affordances**](https://say-can.github.io/assets/palm_saycan.pdf)| - | -| [Github](https://say-can.github.io/) |
-[**Explicit Object Relation Alignment for Vision and Language Navigation**](https://aclanthology.org/2022.acl-srw.24.pdf)| ACL-SRW | 2022| [Github](https://github.com/HLR/Object-Grounding-for-VLN) |
-[**Towards Navigation by Reasoning over Spatial Configurations**](https://arxiv.org/abs/2105.06839)| SpLU | 2021| [Github](https://github.com/zhangyuejoslin/SpC-NAV) |
 
 ## VLN Agent: Learning an Embodied Agent for Reasoning and Planning
 
@@ -88,6 +86,7 @@ The human model comprehends human-provided natural language instructions per sit
 [**LOViS: Learning Orientation and Visual Signals for Vision and Language Navigation**](https://aclanthology.org/2022.coling-1.505.pdf)| COLING | 2022| [Github](https://github.com/HLR/LOViS) |
 [**Scene-Intuitive Agent for Remote Embodied Visual Grounding**](https://arxiv.org/pdf/2103.12944)| CVPR | 2021| - |
 [**VLN BERT: A Recurrent Vision-and-Language BERT for Navigation**](https://openaccess.thecvf.com/content/CVPR2021/papers/Hong_VLN_BERT_A_Recurrent_Vision-and-Language_BERT_for_Navigation_CVPR_2021_paper.pdf)| CVPR | 2021| [Github](https://github.com/YicongHong/Recurrent-VLN-BERT) |
+[**Towards Learning a Generic Agent for Vision-and-Language Navigation via Pre-training**](https://arxiv.org/abs/2002.10638)| CVPR | 2020| [Github](https://github.com/weituo12321/PREVALENT) |
 
 ### VLN-CE Agent
 
