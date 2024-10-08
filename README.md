@@ -80,6 +80,7 @@ The human model comprehends human-provided natural language instructions per sit
 [**Adaptive Zone-aware Hierarchical Planner for Vision-Language Navigation**](https://openaccess.thecvf.com/content/CVPR2023/papers/Gao_Adaptive_Zone-Aware_Hierarchical_Planner_for_Vision-Language_Navigation_CVPR_2023_paper.pdf)| ICCV | 2023| [Github](https://github.com/chengaopro/AZHP)  |
 [**Masked Path Modeling for Vision-and-Language Navigation**](https://arxiv.org/pdf/2305.14268)| EMNLP | 2023| - |
 [**Bird's-Eye-View Scene Graph for Vision-Language Navigation**](https://arxiv.org/abs/2308.04758)| ICCV | 2023| - |
+[**Masked Path Modeling for Vision-and-Language Navigation**](https://arxiv.org/abs/2305.14268)| EMNLP Findings | 2023| - |
 [**Improving Vision-and-Language Navigation by Generating Future-View Image Semantics**](https://arxiv.org/pdf/2304.04907)| CVPR | 2023| [Github](https://github.com/jialuli-luka/VLN-SIG) |
 [**HOP+: History-Enhanced and Order-Aware Pre-Training for Vision-and-Language Navigation**](https://ieeexplore.ieee.org/document/10006384)| TPAMI | 2023 | - |
 [**HOP: History-and-Order Aware Pre-training for Vision-and-Language Navigation**](https://ieeexplore.ieee.org/document/9880046)| CVPR | 2022| [Github](https://github.com/YanyuanQiao/HOP-VLN)|
