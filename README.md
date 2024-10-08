@@ -92,6 +92,7 @@ The human model comprehends human-provided natural language instructions per sit
 |:--------|:--------:|:--------:|:--------:|
 [**Discuss Before Moving: Visual Language Navigation via Multi-expert Discussions**](https://ieeexplore.ieee.org/abstract/document/10611565) | ICRA | 2024 | [Github](https://github.com/LYX0501/DiscussNav) |
 [**MapGPT: Map-Guided Prompting with Adaptive Path Planning for Vision-and-Language Navigation**](https://arxiv.org/abs/2401.07314) | ACL | 2024 | [Github](https://chen-judge.github.io/MapGPT/)
+[**MC-GPT: Empowering Vision-and-LanguageNavigation with Memory Map and Reasoning Chains**]([https://arxiv.org/abs/2305.16986](https://arxiv.org/pdf/2405.10620)) | - | 2024 | - |
 [**NavGPT: Explicit Reasoning in Vision-and-Language Navigation with Large Language Models**](https://arxiv.org/abs/2305.16986) | CVPR | 2023 | [Github](https://github.com/GengzeZhou/NavGPT) |
 
 
