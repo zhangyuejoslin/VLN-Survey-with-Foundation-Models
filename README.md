@@ -30,6 +30,7 @@ If you find our work useful in your research, please consider citing:
 |  Title  |   Venue  |   Date   |   Code   | 
 |:--------|:--------:|:--------:|:--------:|
 [**Vision-and-Language Navigation: A Survey of Tasks, Methods, and Future Directions**](https://arxiv.org/abs/2203.12667)| ACL | 2022| [Github](https://github.com/eric-ai-lab/awesome-vision-language-navigation) |
+[**Visual language navigation: A survey and open challenges**](https://link.springer.com/article/10.1007/s10462-022-10174-9)| - | 2023| - |
 [**Vision-Language Navigation: A Survey and Taxonomy**](https://arxiv.org/abs/2108.11544)| - | 2021| - |
 ---
 ## World Model
