@@ -92,6 +92,7 @@ The human model comprehends human-provided natural language instructions per sit
 
 |  Title  |   Venue  |   Date   |   Code   | 
 |:--------|:--------:|:--------:|:--------:|
+[**Bridging the Gap Between Learning in Discrete and Continuous Environments for Vision-and-Language Navigation**](https://arxiv.org/abs/2203.02764) | CVPR | 2022 | [Github](https://github.com/YicongHong/Discrete-Continuous-VLN) |
 [**Beyond the Nav-Graph: Vision-and-Language Navigation in Continuous Environments**](https://arxiv.org/abs/2004.02857) | ECCV | 2020 | [Github](https://github.com/jacobkrantz/VLN-CE) |
 
 
