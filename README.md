@@ -96,7 +96,7 @@ The human model comprehends human-provided natural language instructions per sit
 [**MapGPT: Map-Guided Prompting with Adaptive Path Planning for Vision-and-Language Navigation**](https://arxiv.org/abs/2401.07314) | ACL | 2024 | [Github](https://chen-judge.github.io/MapGPT/)
 [**MC-GPT: Empowering Vision-and-LanguageNavigation with Memory Map and Reasoning Chains**](https://arxiv.org/pdf/2405.10620) | - | 2024 | - |
 [**InstructNav: Zero-shot System for Generic Instruction Navigation in Unexplored Environment**](https://arxiv.org/pdf/2406.04882) | - | 2024 | [Github](https://github.com/LYX0501/InstructNav)
-[**NavGPT: Explicit Reasoning in Vision-and-Language Navigation with Large Language Models**](https://arxiv.org/abs/2305.16986) | CVPR | 2023 | [Github](https://github.com/GengzeZhou/NavGPT) |
+[**NavGPT: Explicit Reasoning in Vision-and-Language Navigation with Large Language Models**](https://arxiv.org/abs/2305.16986) | CVPR | 2023 | - |
 
 
 #### Fine-tuning
@@ -106,5 +106,5 @@ The human model comprehends human-provided natural language instructions per sit
 [**NavCoT: Boosting LLM-Based Vision-and-Language Navigation via Learning Disentangled Reasoning**](https://arxiv.org/abs/2403.07376)   | CVPR | 2024 | [Github](https://github.com/expectorlin/NavCoT)
 [**Towards Learning a Generalist Model for Embodied Navigation**](https://arxiv.org/abs/2312.02010) | CVPR | 2024 | [Github](https://github.com/LaVi-Lab/NaviLLM)
 [**NavGPT-2: Unleashing Navigational Reasoning Capability for Large Vision-Language Models**](https://www.arxiv.org/abs/2407.12366) | ECCV | 2024 | [Github](https://github.com/GengzeZhou/NavGPT-2) |
-
+[**NaVid: Video-based VLM Plans the Next Step for Vision-and-Language Navigation**](https://arxiv.org/pdf/2402.15852) | RSS | 2024 | [Github](https://github.com/GengzeZhou/NavGPT-2) |
 
