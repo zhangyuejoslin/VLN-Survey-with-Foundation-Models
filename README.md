@@ -87,6 +87,13 @@ The human model comprehends human-provided natural language instructions per sit
 [**LOViS: Learning Orientation and Visual Signals for Vision and Language Navigation**](https://aclanthology.org/2022.coling-1.505.pdf)| COLING | 2022| [Github](https://github.com/HLR/LOViS) |
 [**Scene-Intuitive Agent for Remote Embodied Visual Grounding**](https://arxiv.org/pdf/2103.12944)| CVPR | 2021| - |
 
+### VLN-CE Agent
+
+|  Title  |   Venue  |   Date   |   Code   | 
+|:--------|:--------:|:--------:|:--------:|
+[**Beyond the Nav-Graph: Vision-and-Language Navigation in Continuous Environments**](https://arxiv.org/abs/2004.02857) | ECCV | 2020 | [Github](https://github.com/jacobkrantz/VLN-CE) |
+
+
 ### LLM-based VLN Agent
 
 
