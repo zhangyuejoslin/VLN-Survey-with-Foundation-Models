@@ -87,6 +87,7 @@ The human model comprehends human-provided natural language instructions per sit
 [**HOP: History-and-Order Aware Pre-training for Vision-and-Language Navigation**](https://ieeexplore.ieee.org/document/9880046)| CVPR | 2022| [Github](https://github.com/YanyuanQiao/HOP-VLN)|
 [**LOViS: Learning Orientation and Visual Signals for Vision and Language Navigation**](https://aclanthology.org/2022.coling-1.505.pdf)| COLING | 2022| [Github](https://github.com/HLR/LOViS) |
 [**Scene-Intuitive Agent for Remote Embodied Visual Grounding**](https://arxiv.org/pdf/2103.12944)| CVPR | 2021| - |
+[**VLN BERT: A Recurrent Vision-and-Language BERT for Navigation**](https://openaccess.thecvf.com/content/CVPR2021/papers/Hong_VLN_BERT_A_Recurrent_Vision-and-Language_BERT_for_Navigation_CVPR_2021_paper.pdf)| CVPR | 2021| [Github](https://github.com/YicongHong/Recurrent-VLN-BERT) |
 
 ### VLN-CE Agent
 
