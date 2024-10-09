@@ -46,6 +46,7 @@ A world model helps the VLN agent to understand their surrounding environments, 
 [**Learning Navigational Visual Representations with Semantic Map Supervision**](https://openaccess.thecvf.com/content/ICCV2023/papers/Hong_Learning_Navigational_Visual_Representations_with_Semantic_Map_Supervision_ICCV_2023_paper.pdf)| ICCV | 2023| - |
 [**Learning vision-and-language navigation from youtube videos**](https://arxiv.org/abs/2307.11984)| ICCV | 2023| [Github](https://github.com/JeremyLinky/YouTube-VLN) |
 [**GridMM: Grid Memory Map for Vision-and-Language Navigation**](https://arxiv.org/abs/2307.12907)| ICCV | 2023| [Github](https://github.com/MrZihan/GridMM) |
+[**BEVBert: Multimodal Map Pre-training for Language-guided Navigation**](https://arxiv.org/abs/2212.04385)| ICCV | 2023| [Github](https://github.com/MarSaKi/VLN-BEVBert) |
 [**Scaling Data Generation in Vision-and-Language Navigation**](https://arxiv.org/abs/2307.15644)| ICCV | 2023| [Github](https://github.com/wz0919/ScaleVLN/tree/main?tab=readme-ov-file) |
 [**A New Path: Scaling Vision-and-Language Navigation with Synthetic Instructions and Imitation Learning**](https://arxiv.org/abs/2210.03112)| CVPR | 2023| [Github](https://github.com/clin1223/MTVM)  |
 [**EnvEdit: Environment Editing for Vision-and-Language Navigation**](https://arxiv.org/abs/2203.15685)| CVPR | 2022| [Github](https://github.com/jialuli-luka/VLN-SIG)|
