@@ -106,7 +106,8 @@ The human model comprehends human-provided natural language instructions per sit
 
 |  Title  |   Venue  |   Date   |   Code   | 
 |:--------|:--------:|:--------:|:--------:|
-[**ETPNav: Evolving Topological Planning for Vision-Language Navigation in Continuous Environments**](https://arxiv.org/abs/2304.03047v2) | PAMI | 2024 | [Github](https://github.com/MarSaKi/ETPNav?tab=readme-ov-file) |
+[**ETPNav: Evolving Topological Planning for Vision-Language Navigation in Continuous Environments**](https://arxiv.org/pdf/2404.01943) | CVPR | 2024 | [Github](https://github.com/MrZihan/HNR-VLN) |
+[**Lookahead Exploration with Neural Radiance Representation for Continuous Vision-Language Navigation**](https://arxiv.org/abs/2304.03047v2) | PAMI | 2024 | [Github](https://github.com/MarSaKi/ETPNav?tab=readme-ov-file) |
 [**Narrowing the Gap between Vision and Action in Navigation**](https://www.arxiv.org/abs/2408.10388) | MM | 2024 | - |
 [**Bridging the Gap Between Learning in Discrete and Continuous Environments for Vision-and-Language Navigation**](https://arxiv.org/abs/2203.02764) | CVPR | 2022 | [Github](https://github.com/YicongHong/Discrete-Continuous-VLN) |
 [**Beyond the Nav-Graph: Vision-and-Language Navigation in Continuous Environments**](https://arxiv.org/abs/2004.02857) | ECCV | 2020 | [Github](https://github.com/jacobkrantz/VLN-CE) |
