@@ -84,6 +84,7 @@ The human model comprehends human-provided natural language instructions per sit
 [**Masked Path Modeling for Vision-and-Language Navigation**](https://arxiv.org/abs/2305.14268)| EMNLP Findings | 2023| - |
 [**Improving Vision-and-Language Navigation by Generating Future-View Image Semantics**](https://arxiv.org/pdf/2304.04907)| CVPR | 2023| [Github](https://github.com/jialuli-luka/VLN-SIG) |
 [**HOP+: History-Enhanced and Order-Aware Pre-Training for Vision-and-Language Navigation**](https://ieeexplore.ieee.org/document/10006384)| TPAMI | 2023 | - |
+[**Target-Driven Structured Transformer Planner for Vision-Language Navigation**](https://arxiv.org/pdf/2207.11201)| MM | 2022 | [Github](https://github.com/YushengZhao/TD-STP) |
 [**HOP: History-and-Order Aware Pre-training for Vision-and-Language Navigation**](https://ieeexplore.ieee.org/document/9880046)| CVPR | 2022| [Github](https://github.com/YanyuanQiao/HOP-VLN)|
 [**LOViS: Learning Orientation and Visual Signals for Vision and Language Navigation**](https://aclanthology.org/2022.coling-1.505.pdf)| COLING | 2022| [Github](https://github.com/HLR/LOViS) |
 [**Scene-Intuitive Agent for Remote Embodied Visual Grounding**](https://arxiv.org/pdf/2103.12944)| CVPR | 2021| - |
