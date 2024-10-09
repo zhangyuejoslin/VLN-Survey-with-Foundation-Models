@@ -67,6 +67,7 @@ The human model comprehends human-provided natural language instructions per sit
 |  Title  |   Venue  |   Date   |   Code   | 
 |:--------|:--------:|:--------:|:--------:|
 [**Spatially-Aware Speaker for Vision-and-Language Navigation Instruction Generation**](https://aclanthology.org/2024.acl-long.734.pdf)| ACL | 2024| [Github](https://github.com/gmuraleekrishna/SAS) |
+[**LLM as Copilot for Coarse-grained Vision-and-Language Navigation**](https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/00833.pdf)| ECCV | 2024| - |
 [**Correctable Landmark Discovery via Large Models for Vision-Language Navigation**](https://arxiv.org/abs/2405.18721)| TPAMI | 2024| [Github](https://github.com/expectorlin/CONSOLE) |
 [**NavHint: Vision and Language Navigation Agent with a Hint Generator**](https://arxiv.org/pdf/2402.02559)| EACL | 2024| [Github](https://github.com/HLR/NavHint) |
 [**Learning to Follow and Generate Instructions for Language-Capable Navigation**](https://ieeexplore.ieee.org/document/10359152)| TPAMI | 2023| - |
@@ -124,7 +125,7 @@ The human model comprehends human-provided natural language instructions per sit
 [**MC-GPT: Empowering Vision-and-LanguageNavigation with Memory Map and Reasoning Chains**](https://arxiv.org/pdf/2405.10620) | - | 2024 | - |
 [**InstructNav: Zero-shot System for Generic Instruction Navigation in Unexplored Environment**](https://arxiv.org/pdf/2406.04882) | - | 2024 | [Github](https://github.com/LYX0501/InstructNav)|
 [**NavGPT: Explicit Reasoning in Vision-and-Language Navigation with Large Language Models**](https://arxiv.org/abs/2305.16986) | CVPR | 2023 | - |
-[**March in Chat: Interactive Prompting for Remote Embodied Referring Expression**](https://openaccess.thecvf.com//content/ICCV2023/papers/Qiao_March_in_Chat_Interactive_Prompting_for_Remote_Embodied_Referring_Expression_ICCV_2023_paper.pdf) | ICCV | 2023 | Github](https://github.com/YanyuanQiao/MiC) |
+[**March in Chat: Interactive Prompting for Remote Embodied Referring Expression**](https://openaccess.thecvf.com//content/ICCV2023/papers/Qiao_March_in_Chat_Interactive_Prompting_for_Remote_Embodied_Referring_Expression_ICCV_2023_paper.pdf) | ICCV | 2023 | [Github](https://github.com/YanyuanQiao/MiC) |
 [**A2Nav: Action-Aware Zero-Shot Robot Navigation by Exploiting Vision-and-Language Ability of Foundation Models**](https://peihaochen.github.io/files/publications/A2Nav.pdf) | NeurIPS Workshop | 2023 | - |
 [**CLIP-Nav: Using CLIP for Zero-Shot Vision-and-Language Navigation**](https://arxiv.org/pdf/2211.16649) | - | 2022 | - |
 
