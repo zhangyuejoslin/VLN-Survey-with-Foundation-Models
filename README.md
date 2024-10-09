@@ -71,6 +71,7 @@ The human model comprehends human-provided natural language instructions per sit
 [**A New Path: Scaling Vision-and-Language Navigation with Synthetic Instructions and Imitation Learning**](https://arxiv.org/pdf/2210.03112)| CVPR | 2023| [Dataset](https://github.com/google-research-datasets/RxR/tree/main/marky-mT5) |
 [**Learning vision-and-language navigation from youtube videos**](https://arxiv.org/abs/2307.11984)| ICCV | 2023| [Github](https://github.com/JeremyLinky/YouTube-VLN) |
 [**Lana: A Language-Capable Navigator for Instruction Following and Generation**](https://arxiv.org/abs/2303.08409)| CVPR | 2023| [Github](https://github.com/wxh1996/LANA-VLN) |
+[**PASTS: Progress-Aware Spatio-Temporal Transformer Speaker For Vision-and-Language Navigation**](https://arxiv.org/pdf/2305.11918)| MM | 2023| - |
 [**VLN-Trans: Translator for the Vision and Language Navigation Agent**](https://arxiv.org/pdf/2302.09230)| ACL | 2023| [Github](https://github.com/HLR/VLN-trans) |
 [**Visual-Language Navigation Pretraining via Prompt-based Environmental Self-exploration**](https://arxiv.org/pdf/2203.04006)| ACL | 2022| [Github](https://github.com/liangcici/Probes-VLN) |
 [**Less is More: Generating Grounded Navigation Instructions from Landmarks**](https://arxiv.org/pdf/2004.14973)| CVPR | 2022| [Github](https://github.com/google-research-datasets/RxR/tree/main/marky-mT5) |
