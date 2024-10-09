@@ -89,6 +89,7 @@ The human model comprehends human-provided natural language instructions per sit
 [**LOViS: Learning Orientation and Visual Signals for Vision and Language Navigation**](https://aclanthology.org/2022.coling-1.505.pdf)| COLING | 2022| [Github](https://github.com/HLR/LOViS) |
 [**Scene-Intuitive Agent for Remote Embodied Visual Grounding**](https://arxiv.org/pdf/2103.12944)| CVPR | 2021| - |
 [**SOAT: A Scene- and Object-Aware Transformer for Vision-and-Language Navigation**](https://arxiv.org/abs/2110.14143)| NeurIPS | 2021| - |
+[**The Road to Know-Where: An Object-and-Room Informed Sequential BERT for Indoor Vision-Language Navigation**](https://openaccess.thecvf.com/content/ICCV2021/papers/Qi_The_Road_To_Know-Where_An_Object-and-Room_Informed_Sequential_BERT_for_ICCV_2021_paper.pdf)| ICCV | 2021| [Github]([https://github.com/YicongHong/Recurrent-VLN-BERT](https://github.com/YuankaiQi/ORIST)) |
 [**VLN BERT: A Recurrent Vision-and-Language BERT for Navigation**](https://openaccess.thecvf.com/content/CVPR2021/papers/Hong_VLN_BERT_A_Recurrent_Vision-and-Language_BERT_for_Navigation_CVPR_2021_paper.pdf)| CVPR | 2021| [Github](https://github.com/YicongHong/Recurrent-VLN-BERT) |
 [**Towards Learning a Generic Agent for Vision-and-Language Navigation via Pre-training**](https://arxiv.org/abs/2002.10638)| CVPR | 2020| [Github](https://github.com/weituo12321/PREVALENT) |
 
