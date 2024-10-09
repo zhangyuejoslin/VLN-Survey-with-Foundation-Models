@@ -38,6 +38,7 @@ A world model helps the VLN agent to understand their surrounding environments, 
 |  Title  |   Venue  |   Date   |   Code   | 
 |:--------|:--------:|:--------:|:--------:|
 [**VLN-Video: Utilizing Driving Videos for Outdoor Vision-and-Language Navigation**](https://arxiv.org/abs/2402.03561)| AAAI | 2024| - |
+[**Volumetric Environment Representation for Vision-Language Navigation**](https://arxiv.org/pdf/2403.14158)| CVPR | 2024| [Github](https://github.com/DefaultRui/VLN-VER) |
 [**Vision Language Navigation with Knowledge-driven Environmental Dreamer**](https://www.ijcai.org/proceedings/2023/0204.pdf)| IJCAI | 2023| - |
 [**Frequency-enhanced Data Augmentation for Vision-and-Language Navigation**](https://openreview.net/pdf?id=eKFrXWb0sT)| NeurIPS | 2023| [Github](https://github.com/hekj/FDA?tab=readme-ov-file) |
 [**Frequency-Enhanced Data Augmentation for Vision-and-Language Navigation**](https://proceedings.neurips.cc/paper_files/paper/2023/file/0d9e08f247ca7fbbfd5e50b7ff9cf357-Paper-Conference.pdf)| NeurIPS | 2023| [Github](https://github.com/hekj/FDA) |
