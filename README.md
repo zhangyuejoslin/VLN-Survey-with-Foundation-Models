@@ -125,6 +125,7 @@ The human model comprehends human-provided natural language instructions per sit
 [**InstructNav: Zero-shot System for Generic Instruction Navigation in Unexplored Environment**](https://arxiv.org/pdf/2406.04882) | - | 2024 | [Github](https://github.com/LYX0501/InstructNav)|
 [**NavGPT: Explicit Reasoning in Vision-and-Language Navigation with Large Language Models**](https://arxiv.org/abs/2305.16986) | CVPR | 2023 | - |
 [**March in Chat: Interactive Prompting for Remote Embodied Referring Expression**](https://openaccess.thecvf.com//content/ICCV2023/papers/Qiao_March_in_Chat_Interactive_Prompting_for_Remote_Embodied_Referring_Expression_ICCV_2023_paper.pdf) | ICCV | 2023 | [Github](https://github.com/YanyuanQiao/MiC) |
+[**Vision and Language Navigation in the Real World via Online Visual Language Mapping**](https://arxiv.org/pdf/2310.10822) | - | 2023 | - |
 [**A2Nav: Action-Aware Zero-Shot Robot Navigation by Exploiting Vision-and-Language Ability of Foundation Models**](https://peihaochen.github.io/files/publications/A2Nav.pdf) | NeurIPS Workshop | 2023 | - |
 [**CLIP-Nav: Using CLIP for Zero-Shot Vision-and-Language Navigation**](https://arxiv.org/pdf/2211.16649) | - | 2022 | - |
 
