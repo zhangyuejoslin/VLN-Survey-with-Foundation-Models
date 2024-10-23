@@ -74,6 +74,7 @@ The human model comprehends human-provided natural language instructions per sit
 [**A New Path: Scaling Vision-and-Language Navigation with Synthetic Instructions and Imitation Learning**](https://arxiv.org/pdf/2210.03112)| CVPR | 2023| [Dataset](https://github.com/google-research-datasets/RxR/tree/main/marky-mT5) |
 [**Learning vision-and-language navigation from youtube videos**](https://arxiv.org/abs/2307.11984)| ICCV | 2023| [Github](https://github.com/JeremyLinky/YouTube-VLN) |
 [**Lana: A Language-Capable Navigator for Instruction Following and Generation**](https://arxiv.org/abs/2303.08409)| CVPR | 2023| [Github](https://github.com/wxh1996/LANA-VLN) |
+[**KERM: Knowledge Enhanced Reasoning for Vision-and-Language Navigation**](https://openaccess.thecvf.com/content/CVPR2023/papers/Li_KERM_Knowledge_Enhanced_Reasoning_for_Vision-and-Language_Navigation_CVPR_2023_paper.pdf)| CVPR | 2023| [Github](https://github.com/xiangyangli-cn/KERM) |
 [**PASTS: Progress-Aware Spatio-Temporal Transformer Speaker For Vision-and-Language Navigation**](https://arxiv.org/pdf/2305.11918)| MM | 2023| - |
 [**CrossMap Transformer: A Crossmodal Masked Path Transformer Using Double Back-Translation for Vision-and-Language Navigation**](https://arxiv.org/abs/2103.00852)| - | 2023| - |
 [**VLN-Trans: Translator for the Vision and Language Navigation Agent**](https://arxiv.org/pdf/2302.09230)| ACL | 2023| [Github](https://github.com/HLR/VLN-trans) |
