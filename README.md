@@ -141,3 +141,11 @@ The human model comprehends human-provided natural language instructions per sit
 [**NavGPT-2: Unleashing Navigational Reasoning Capability for Large Vision-Language Models**](https://www.arxiv.org/abs/2407.12366) | ECCV | 2024 | [Github](https://github.com/GengzeZhou/NavGPT-2) |
 [**NaVid: Video-based VLM Plans the Next Step for Vision-and-Language Navigation**](https://arxiv.org/pdf/2402.15852) | RSS | 2024 | [Github](https://github.com/GengzeZhou/NavGPT-2) |
 
+
+
+#### Behavior Analysis of the VLN Agent
+|  Title  |   Venue  |   Date   |   Code   | 
+|:--------|:--------:|:--------:|:--------:|
+[**Diagnosing Vision-and-Language Navigation: What Really Matters**](https://aclanthology.org/2022.naacl-main.438.pdf) | NACCL | 2022 | [Github](https://github.com/VegB/Diagnose_VLN)
+[**Behavioral Analysis of Vision-and-Language Navigation Agents**](https://yoark.github.io/assets/pdf/vln-behave/vln-behave.pdf) | CVPR | 2023 | [Github](https://github.com/Yoark/vln-behave)
+[**Navigating the Nuances: A Fine-grained Evaluation of Vision-Language Navigation**](https://arxiv.org/pdf/2409.17313) | EMNLP Findings | 2024 | [Github](https://github.com/zehao-wang/navnuances)
