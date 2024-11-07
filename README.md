@@ -23,6 +23,7 @@ If you find our work useful in your research, please consider citing:
 - [World Model](#word-modal)
 - [Human Model](#human-modal)
 - [VLN Agent](#vln-agent-learning-an-embodied-agent-for-reasoning-and-planning)
+- [Behavior Analysis of the VLN Agent](#behavir-analysis)
 
 
 ---
@@ -143,7 +144,7 @@ The human model comprehends human-provided natural language instructions per sit
 
 
 
-#### Behavior Analysis of the VLN Agent
+## Behavior Analysis of the VLN Agent
 |  Title  |   Venue  |   Date   |   Code   | 
 |:--------|:--------:|:--------:|:--------:|
 [**Diagnosing Vision-and-Language Navigation: What Really Matters**](https://aclanthology.org/2022.naacl-main.438.pdf) | NACCL | 2022 | [Github](https://github.com/VegB/Diagnose_VLN)
