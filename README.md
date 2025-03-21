@@ -75,12 +75,10 @@ The human model comprehends human-provided natural language instructions per sit
 [**Navigation Instruction Generation with BEV Perception and Large Language Models**](https://arxiv.org/pdf/2407.15087)| ECCV | 2024| [Github](https://github.com/FanScy/BEVInstructor) |
 [**Controllable Navigation Instruction Generation with Chain of Thought Prompting**](https://arxiv.org/pdf/2407.07433)| ECCV | 2024| [Github](https://github.com/refkxh/C-Instructor) |
 [**Spatially-Aware Speaker for Vision-and-Language Navigation Instruction Generation**](https://aclanthology.org/2024.acl-long.734.pdf)| ACL | 2024| [Github](https://github.com/gmuraleekrishna/SAS) |
-[**LLM as Copilot for Coarse-grained Vision-and-Language Navigation**](https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/00833.pdf)| ECCV | 2024| - |
 [**Correctable Landmark Discovery via Large Models for Vision-Language Navigation**](https://arxiv.org/abs/2405.18721)| TPAMI | 2024| [Github](https://github.com/expectorlin/CONSOLE) |
 [**NavHint: Vision and Language Navigation Agent with a Hint Generator**](https://arxiv.org/pdf/2402.02559)| EACL | 2024| [Github](https://github.com/HLR/NavHint) |
 [**Learning to Follow and Generate Instructions for Language-Capable Navigation**](https://ieeexplore.ieee.org/document/10359152)| TPAMI | 2023| - |
 [**A New Path: Scaling Vision-and-Language Navigation with Synthetic Instructions and Imitation Learning**](https://arxiv.org/pdf/2210.03112)| CVPR | 2023| [Dataset](https://github.com/google-research-datasets/RxR/tree/main/marky-mT5) |
-[**Learning vision-and-language navigation from youtube videos**](https://arxiv.org/abs/2307.11984)| ICCV | 2023| [Github](https://github.com/JeremyLinky/YouTube-VLN) |
 [**Lana: A Language-Capable Navigator for Instruction Following and Generation**](https://arxiv.org/abs/2303.08409)| CVPR | 2023| [Github](https://github.com/wxh1996/LANA-VLN) |
 [**KERM: Knowledge Enhanced Reasoning for Vision-and-Language Navigation**](https://openaccess.thecvf.com/content/CVPR2023/papers/Li_KERM_Knowledge_Enhanced_Reasoning_for_Vision-and-Language_Navigation_CVPR_2023_paper.pdf)| CVPR | 2023| [Github](https://github.com/xiangyangli-cn/KERM) |
 [**PASTS: Progress-Aware Spatio-Temporal Transformer Speaker For Vision-and-Language Navigation**](https://arxiv.org/pdf/2305.11918)| MM | 2023| - |
@@ -129,11 +127,12 @@ The human model comprehends human-provided natural language instructions per sit
 #### Zero-shot
 |  Title  |   Venue  |   Date   |   Code   | 
 |:--------|:--------:|:--------:|:--------:|
+[**LLM as Copilot for Coarse-grained Vision-and-Language Navigation**](https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/00833.pdf)| ECCV | 2024| - |
 [**Discuss Before Moving: Visual Language Navigation via Multi-expert Discussions**](https://ieeexplore.ieee.org/abstract/document/10611565) | ICRA | 2024 | [Github](https://github.com/LYX0501/DiscussNav) |
 [**MapGPT: Map-Guided Prompting with Adaptive Path Planning for Vision-and-Language Navigation**](https://arxiv.org/abs/2401.07314) | ACL | 2024 | [Github](https://chen-judge.github.io/MapGPT/)
 [**MC-GPT: Empowering Vision-and-LanguageNavigation with Memory Map and Reasoning Chains**](https://arxiv.org/pdf/2405.10620) | - | 2024 | - |
 [**InstructNav: Zero-shot System for Generic Instruction Navigation in Unexplored Environment**](https://arxiv.org/pdf/2406.04882) | - | 2024 | [Github](https://github.com/LYX0501/InstructNav)|
-[**NavGPT: Explicit Reasoning in Vision-and-Language Navigation with Large Language Models**](https://arxiv.org/abs/2305.16986) | CVPR | 2023 | - |
+[**NavGPT: Explicit Reasoning in Vision-and-Language Navigation with Large Language Models**](https://arxiv.org/abs/2305.16986) | AAAI | 2024 | [Github](https://github.com/GengzeZhou/NavGPT) |
 [**March in Chat: Interactive Prompting for Remote Embodied Referring Expression**](https://openaccess.thecvf.com//content/ICCV2023/papers/Qiao_March_in_Chat_Interactive_Prompting_for_Remote_Embodied_Referring_Expression_ICCV_2023_paper.pdf) | ICCV | 2023 | [Github](https://github.com/YanyuanQiao/MiC) |
 [**Vision and Language Navigation in the Real World via Online Visual Language Mapping**](https://arxiv.org/pdf/2310.10822) | - | 2023 | - |
 [**A2Nav: Action-Aware Zero-Shot Robot Navigation by Exploiting Vision-and-Language Ability of Foundation Models**](https://peihaochen.github.io/files/publications/A2Nav.pdf) | NeurIPS Workshop | 2023 | - |
