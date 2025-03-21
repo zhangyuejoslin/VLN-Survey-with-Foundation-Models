@@ -71,6 +71,7 @@ The human model comprehends human-provided natural language instructions per sit
 
 |  Title  |   Venue  |   Date   |   Code   | 
 |:--------|:--------:|:--------:|:--------:|
+[**Bootstrapping Language-Guided Navigation Learning with Self-Refining Data Flywheel**](https://arxiv.org/abs/2412.08467)| ICLR | 2025| [Github](https://github.com/wz0919/VLN-SRDF) |
 [**Navigation Instruction Generation with BEV Perception and Large Language Models**](https://arxiv.org/pdf/2407.15087)| ECCV | 2024| [Github](https://github.com/FanScy/BEVInstructor) |
 [**Controllable Navigation Instruction Generation with Chain of Thought Prompting**](https://arxiv.org/pdf/2407.07433)| ECCV | 2024| [Github](https://github.com/refkxh/C-Instructor) |
 [**Spatially-Aware Speaker for Vision-and-Language Navigation Instruction Generation**](https://aclanthology.org/2024.acl-long.734.pdf)| ACL | 2024| [Github](https://github.com/gmuraleekrishna/SAS) |
