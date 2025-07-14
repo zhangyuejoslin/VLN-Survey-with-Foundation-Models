@@ -93,8 +93,9 @@ The human model comprehends human-provided natural language instructions per sit
 
 |  Title  |   Venue  |   Date   |   Code   | 
 |:--------|:--------:|:--------:|:--------:|
+[**SAME: Learning Generic Language-Guided Visual Navigation with State-Adaptive Mixture of Experts**](https://arxiv.org/pdf/2412.05552)| ICCV | 2025| [Github](https://github.com/GengzeZhou/SAME)  |
 [**Actional Atomic-Concept Learning for Demystifying Vision-Language Navigation**](https://arxiv.org/pdf/2302.06072)| AAAI | 2023| - |
-[**Grounded Entity-Landmark Adaptive Pre-training for Vision-and-Language Navigation**](https://arxiv.org/abs/2308.12587)| ICCV | 2023| [Github](https://arxiv.org/pdf/2305.14268)  |
+[**Grounded Entity-Landmark Adaptive Pre-training for Vision-and-Language Navigation**](https://arxiv.org/abs/2308.12587)| ICCV | 2023| [Github](https://github.com/CSir1996/VLN-GELA)  |
 [**Adaptive Zone-aware Hierarchical Planner for Vision-Language Navigation**](https://openaccess.thecvf.com/content/CVPR2023/papers/Gao_Adaptive_Zone-Aware_Hierarchical_Planner_for_Vision-Language_Navigation_CVPR_2023_paper.pdf)| ICCV | 2023| [Github](https://github.com/chengaopro/AZHP)  |
 [**Bird's-Eye-View Scene Graph for Vision-Language Navigation**](https://arxiv.org/abs/2308.04758)| ICCV | 2023| - |
 [**Masked Path Modeling for Vision-and-Language Navigation**](https://arxiv.org/abs/2305.14268)| EMNLP Findings | 2023| - |
@@ -113,6 +114,7 @@ The human model comprehends human-provided natural language instructions per sit
 
 |  Title  |   Venue  |   Date   |   Code   | 
 |:--------|:--------:|:--------:|:--------:|
+[**Affordances-Oriented Planning using Foundation Models for Continuous Vision-Language Navigation**](https://arxiv.org/abs/2407.05890) | AAAI | 2025 | - |
 [**Lookahead Exploration with Neural Radiance Representation for Continuous Vision-Language Navigation**](https://arxiv.org/pdf/2404.01943) | CVPR | 2024 | [Github](https://github.com/MrZihan/HNR-VLN) |
 [**ETPNav: Evolving Topological Planning for Vision-Language Navigation in Continuous Environments**](https://arxiv.org/abs/2304.03047v2) | PAMI | 2024 | [Github](https://github.com/MarSaKi/ETPNav?tab=readme-ov-file) |
 [**Narrowing the Gap between Vision and Action in Navigation**](https://www.arxiv.org/abs/2408.10388) | MM | 2024 | - |
@@ -143,6 +145,7 @@ The human model comprehends human-provided natural language instructions per sit
 #### Fine-tuning
 |  Title  |   Venue  |   Date   |   Code   | 
 |:--------|:--------:|:--------:|:--------:|
+[**EvolveNav: Self-Improving Embodied Reasoning for LLM-Based Vision-Language Navigation**](https://arxiv.org/pdf/2506.01551) | Arxiv | 2025 | [Github](https://github.com/expectorlin/EvolveNav)
 [**LangNav: Language as a Perceptual Representation for Navigation**](https://aclanthology.org/2024.findings-naacl.60.pdf) | NACCL Findings | 2024 | [Github](https://github.com/pbw-Berwin/LangNav)
 [**NavCoT: Boosting LLM-Based Vision-and-Language Navigation via Learning Disentangled Reasoning**](https://arxiv.org/abs/2403.07376)   | - | 2024 | [Github](https://github.com/expectorlin/NavCoT)
 [**Towards Learning a Generalist Model for Embodied Navigation**](https://arxiv.org/abs/2312.02010) | CVPR | 2024 | [Github](https://github.com/LaVi-Lab/NaviLLM)
