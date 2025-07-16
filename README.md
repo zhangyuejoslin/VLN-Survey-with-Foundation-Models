@@ -114,6 +114,7 @@ The human model comprehends human-provided natural language instructions per sit
 
 |  Title  |   Venue  |   Date   |   Code   | 
 |:--------|:--------:|:--------:|:--------:|
+[**NavMorph: A Self-Evolving World Model for Vision-and-Language Navigation in Continuous Environments**](https://arxiv.org/pdf/2506.23468) | ICCV | 2025 | [Github](https://github.com/Feliciaxyao/NavMorph) |
 [**Affordances-Oriented Planning using Foundation Models for Continuous Vision-Language Navigation**](https://arxiv.org/abs/2407.05890) | AAAI | 2025 | - |
 [**Lookahead Exploration with Neural Radiance Representation for Continuous Vision-Language Navigation**](https://arxiv.org/pdf/2404.01943) | CVPR | 2024 | [Github](https://github.com/MrZihan/HNR-VLN) |
 [**ETPNav: Evolving Topological Planning for Vision-Language Navigation in Continuous Environments**](https://arxiv.org/abs/2304.03047v2) | PAMI | 2024 | [Github](https://github.com/MarSaKi/ETPNav?tab=readme-ov-file) |
