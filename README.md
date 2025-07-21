@@ -158,6 +158,9 @@ The human model comprehends human-provided natural language instructions per sit
 ## Behavior Analysis of the VLN Agent
 |  Title  |   Venue  |   Date   |   Code   | 
 |:--------|:--------:|:--------:|:--------:|
-[**Diagnosing Vision-and-Language Navigation: What Really Matters**](https://aclanthology.org/2022.naacl-main.438.pdf) | NACCL | 2022 | [Github](https://github.com/VegB/Diagnose_VLN)
-[**Behavioral Analysis of Vision-and-Language Navigation Agents**](https://yoark.github.io/assets/pdf/vln-behave/vln-behave.pdf) | CVPR | 2023 | [Github](https://github.com/Yoark/vln-behave)
+[**Do Visual Imaginations Improve Vision-and-Language Navigation Agents?**](https://arxiv.org/pdf/2503.16394) | CVPR | 2025 |-|
 [**Navigating the Nuances: A Fine-grained Evaluation of Vision-Language Navigation**](https://arxiv.org/pdf/2409.17313) | EMNLP Findings | 2024 | [Github](https://github.com/zehao-wang/navnuances)
+[**Behavioral Analysis of Vision-and-Language Navigation Agents**](https://yoark.github.io/assets/pdf/vln-behave/vln-behave.pdf) | CVPR | 2023 | [Github](https://github.com/Yoark/vln-behave)
+[**Diagnosing Vision-and-Language Navigation: What Really Matters**](https://aclanthology.org/2022.naacl-main.438.pdf) | NACCL | 2022 | [Github](https://github.com/VegB/Diagnose_VLN)
+
+
