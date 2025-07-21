@@ -42,6 +42,7 @@ If you find our work useful in your research, please consider citing:
 A world model helps the VLN agent to understand their surrounding environments, predict how their actions would change the world state, and align their perception and actions with language instructions.
 |  Title  |   Venue  |   Date   |   Code   | 
 |:--------|:--------:|:--------:|:--------:|
+[**MapNav: A Novel Memory Representation via Annotated Semantic Maps for VLM-based Vision-and-Language Navigation**](https://arxiv.org/pdf/2502.13451)| ACL | 2025| - |
 [**VLN-Video: Utilizing Driving Videos for Outdoor Vision-and-Language Navigation**](https://arxiv.org/abs/2402.03561)| AAAI | 2024| - |
 [**Volumetric Environment Representation for Vision-Language Navigation**](https://arxiv.org/pdf/2403.14158)| CVPR | 2024| [Github](https://github.com/DefaultRui/VLN-VER) |
 [**Vision Language Navigation with Knowledge-driven Environmental Dreamer**](https://www.ijcai.org/proceedings/2023/0204.pdf)| IJCAI | 2023| - |
@@ -71,6 +72,8 @@ The human model comprehends human-provided natural language instructions per sit
 
 |  Title  |   Venue  |   Date   |   Code   | 
 |:--------|:--------:|:--------:|:--------:|
+[**Scene Map-based Prompt Tuning for Navigation Instruction Generation**](https://openaccess.thecvf.com/content/CVPR2025/papers/Fan_Scene_Map-based_Prompt_Tuning_for_Navigation_Instruction_Generation_CVPR_2025_paper.pdf)| CVPR | 2025| - |
+[**NavRAG: Generating User Demand Instructions for Embodied Navigation through Retrieval-Augmented LLM**](https://arxiv.org/pdf/2502.11142)| ACL | 2025| [Github](https://github.com/MrZihan/NavRAG) |
 [**Bootstrapping Language-Guided Navigation Learning with Self-Refining Data Flywheel**](https://arxiv.org/abs/2412.08467)| ICLR | 2025| [Github](https://github.com/wz0919/VLN-SRDF) |
 [**Navigation Instruction Generation with BEV Perception and Large Language Models**](https://arxiv.org/pdf/2407.15087)| ECCV | 2024| [Github](https://github.com/FanScy/BEVInstructor) |
 [**Controllable Navigation Instruction Generation with Chain of Thought Prompting**](https://arxiv.org/pdf/2407.07433)| ECCV | 2024| [Github](https://github.com/refkxh/C-Instructor) |
