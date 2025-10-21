@@ -97,6 +97,7 @@ The human model comprehends human-provided natural language instructions per sit
 |  Title  |   Venue  |   Date   |   Code   | 
 |:--------|:--------:|:--------:|:--------:|
 [**SAME: Learning Generic Language-Guided Visual Navigation with State-Adaptive Mixture of Experts**](https://arxiv.org/pdf/2412.05552)| ICCV | 2025| [Github](https://github.com/GengzeZhou/SAME)  |
+[**MiniVLN: Efficient Vision-and-Language Navigation byProgressive Knowledge Distillation**](https://arxiv.org/pdf/2409.18800)| ICRA | 2024|- |
 [**Actional Atomic-Concept Learning for Demystifying Vision-Language Navigation**](https://arxiv.org/pdf/2302.06072)| AAAI | 2023| - |
 [**Grounded Entity-Landmark Adaptive Pre-training for Vision-and-Language Navigation**](https://arxiv.org/abs/2308.12587)| ICCV | 2023| [Github](https://github.com/CSir1996/VLN-GELA)  |
 [**Adaptive Zone-aware Hierarchical Planner for Vision-Language Navigation**](https://openaccess.thecvf.com/content/CVPR2023/papers/Gao_Adaptive_Zone-Aware_Hierarchical_Planner_for_Vision-Language_Navigation_CVPR_2023_paper.pdf)| ICCV | 2023| [Github](https://github.com/chengaopro/AZHP)  |
