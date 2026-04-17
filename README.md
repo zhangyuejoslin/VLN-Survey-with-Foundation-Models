@@ -96,7 +96,7 @@ The human model comprehends human-provided natural language instructions per sit
 
 |  Title  |   Venue  |   Date   |   Code   | 
 |:--------|:--------:|:--------:|:--------:|
-[**Breaking down and building up: Mixture of skill-based vision-and-language navigation agents**]([https://arxiv.org/pdf/2412.05552](https://arxiv.org/abs/2508.07642))| ACL | 2026| [Github]([https://github.com/GengzeZhou/SAME](https://github.com/HLR/SkillNav))  |
+[**Breaking down and building up: Mixture of skill-based vision-and-language navigation agents**](https://arxiv.org/abs/2508.07642)| ACL | 2026| [Github](https://github.com/HLR/SkillNav) |
 [**SAME: Learning Generic Language-Guided Visual Navigation with State-Adaptive Mixture of Experts**](https://arxiv.org/pdf/2412.05552)| ICCV | 2025| [Github](https://github.com/GengzeZhou/SAME)  |
 [**MiniVLN: Efficient Vision-and-Language Navigation byProgressive Knowledge Distillation**](https://arxiv.org/pdf/2409.18800)| ICRA | 2024|- |
 [**Actional Atomic-Concept Learning for Demystifying Vision-Language Navigation**](https://arxiv.org/pdf/2302.06072)| AAAI | 2023| - |
